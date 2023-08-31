@@ -28,7 +28,7 @@ Employee table:
 Output: 
 
 | SecondHighestSalary |
-+---------------------+
+|---------------------|
 | 200                 |
 
 
