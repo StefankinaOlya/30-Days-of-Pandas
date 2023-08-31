@@ -30,7 +30,7 @@ Orders table:
 Output: 
 
 | customer_number |
-+-----------------+
+|-----------------|
 | 3               |
 
 Explanation: 
